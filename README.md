@@ -8,4 +8,4 @@ William Joel Chavez Lopez
 Josue Omar Catzin Chacon
 Lester David Uicab Gongora
 
-adjuntamos los scripts dentro del backend en una carpeta llamada "bd"  , gracias
+la base de datos esta hecha en workbench,  se llama homesecurity, tenemos los scripts dentro de una carpeta llamada bd en el backend
